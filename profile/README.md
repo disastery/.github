@@ -1,5 +1,5 @@
 # NoGrid.AI
 
-Making AI Offline
+Making AI based Offline Tools
 
 Visit nogrid.ai
