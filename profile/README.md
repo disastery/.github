@@ -1,5 +1,5 @@
-# NoGrid.AI
+# Business continuity & disaster recovery policy driven AI suite
 
-Making AI based Offline Tools
+Making AI based Online/Offiline Tools
 
-Visit nogrid.ai
+Visit https://disastery.com
